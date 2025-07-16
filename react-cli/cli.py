@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 """
+# SPDX-License-Identifier: MIT
+# © 2025 Christ Bouka <christbouka14@yahoo.fr>
+#
+# Signed-off-by: Christ Bouka <christbouka14@yahoo.fr>
+
 React CLI Generator - A Python script to generate React components, services, hooks, redux slices, and contexts.
 Similar to Angular CLI functionality.
 """
